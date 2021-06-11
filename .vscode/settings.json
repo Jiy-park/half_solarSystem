@@ -1,0 +1,17 @@
+{
+"cmake.debugConfig": {
+    "cwd": "${workspaceFolder}"
+},
+"files.associations": {
+    "vector": "cpp",
+    "xiosbase": "cpp",
+    "regex": "cpp",
+    "xstring": "cpp",
+    "memory": "cpp",
+    "type_traits": "cpp",
+    "algorithm": "cpp",
+    "locale": "cpp",
+    "system_error": "cpp",
+    "xlocale": "cpp"
+}
+} 
